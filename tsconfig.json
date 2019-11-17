@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "outDir": "lib"
+    },
+    "include": ["src/**/*.ts"]
+}

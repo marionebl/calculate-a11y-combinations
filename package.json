@@ -1,11 +1,13 @@
 {
   "name": "calculate-a11y-combinations",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "Mario Nebl",
   "license": "MIT",
   "bin": "./lib/cli.js",
-  "files": ["lib"],
+  "files": [
+    "lib"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/marionebl/calculate-a11y-combinations.git"

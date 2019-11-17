@@ -1,6 +1,6 @@
 {
   "name": "calculate-a11y-combinations",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "author": "Mario Nebl",
   "license": "MIT",
